@@ -6,7 +6,7 @@ all: build
 # Create new project
 #############################
 
-create:
+create-project:
 	bash bin/create-project.sh $(ARGS)
 
 #############################
